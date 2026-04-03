@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_CONTAINER_CLOUD
+name: alice-container-cloud
 description: ALICE Container Cloud
 type: application
 version: 0.1.0
